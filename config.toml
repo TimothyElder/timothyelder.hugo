@@ -25,7 +25,7 @@ copyright = "© {year}"
   #twitter = "https://twitter.com/<your handle>"
   github = "https://github.com/timothyelder"
   email = "mailto:timothyelder@uchicago.edu"
-  #uchicago = "https://sociology.uchicago.edu/directory/timothy-elder"
+  uchicago = "https://sociology.uchicago.edu/directory/timothy-elder"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
@@ -35,8 +35,8 @@ copyright = "© {year}"
 
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported:
-  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube", "uchicago"
-  iconOrder = ["Email", "GitHub"]
+  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconOrder = ["Email", "GitHub", "uchicago"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
