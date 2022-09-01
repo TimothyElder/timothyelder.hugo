@@ -1,5 +1,7 @@
 # DO NOT REMOVE THIS
-theme = "hugo-theme-codex"
+theme = ["hugo-embed-pdf-shortcode", "hugo-theme-codex"]
+
+enableInlineShortcodes = true
 
 publishDir = "/Users/timothyelder/Documents/timothyelder.github.io"
 
@@ -78,6 +80,13 @@ copyright = "© {year}"
   title = "cv"
   url = "/cv"
   weight =  30
+
+[[menu.main]]
+  identifier = "projects"
+  name = "projects"
+  title = "Projects"
+  url = "/projects"
+  weight =  40
 
 #[[menu.main]]
 #  identifier = "blog"
