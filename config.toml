@@ -19,7 +19,6 @@ copyright = "© {year}"
 
 # Optional params
 [params]
-  body_classes = "Consolas bg-near-white"
 
   # Follow the Hugo date/time format reference here:
   # https://gohugo.io/functions/format/#gos-layout-string
@@ -33,14 +32,14 @@ copyright = "© {year}"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
-  instagram = "https://instagram.com/timothy__elder"
+  # instagram = "https://instagram.com/timothy__elder"
   # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
 
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported:
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Email", "GitHub", "uchicago", "Instagram"]
+  iconOrder = ["Email", "GitHub", "uchicago"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
