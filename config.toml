@@ -6,7 +6,7 @@ enableInlineShortcodes = true
 publishDir = "/Users/timothyelder/Documents/timothyelder.github.io"
 
 # Override these settings with your own
-title = "timothyelder"
+title = "timothyelder.com"
 languageCode = "en-us"
 baseURL = "https://timothyelder.com/"
 copyright = "© {year}"
