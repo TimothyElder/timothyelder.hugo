@@ -16,4 +16,4 @@ Lastly and not leastly, I have an enduring interest in philosophy, particularly 
 I also have a cat named Bat who is very cute.
 
 
-{{< figure src="/images/sunny_bat.jpg" title="The Bat Cat."  >}}
+{{< figure src = "/images/sunny_bat.jpg" title = "The Bat Cat."  >}}
