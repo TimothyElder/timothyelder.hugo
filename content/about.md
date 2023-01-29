@@ -5,7 +5,7 @@ keywords: []
 draft: false
 ---
 
-{{< figure src="/images/another_headshot.jpeg" title="Timothy Elder">}}
+{{< figure src="/images/2022_headshot_milwaukee.jpg" title="Timothy Elder">}}
 
 I'm a PhD candidate in Sociology at the University of Chicago and I study topics in the sociology of medicine, knowledge, social network analysis and death and dying. My dissertation investigates how physicians create plans of care for their patients: how they navigate conflict and build consensus, how they prognosticate and think about possible futures, and how they do all of this while honoring their obligations to ensure the well-being of their patients and colleagues is maintained.
 

@@ -80,17 +80,17 @@ copyright = "© {year}"
   name = "cv"
   title = "cv"
   url = "/cv"
-  weight =  30
+  weight = 30
 
 [[menu.main]]
   identifier = "projects"
   name = "projects"
   title = "Projects"
   url = "/projects"
-  weight =  40
+  weight = 40
 
-#[[menu.main]]
-#  identifier = "blog"
-#  name = "blog"
-#  title = "Blog"
-#  url = "/blog"
+[[menu.main]]
+  identifier = "plaintexst"
+  name = "plaintext"
+  title = "Plaintext"
+  url = "/plaintext"

@@ -2,7 +2,7 @@
 title: "Projects"
 description: ""
 keywords: []
-draft: true
+draft: false
 ---
 
 *My work is unified by an interest in how knowledge is organized and mustered to inform the practical work of social institutions like medicine and the academy.*
