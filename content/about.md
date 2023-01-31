@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: ""
+description: "My bio page."
 keywords: []
 draft: false
 ---
@@ -14,6 +14,5 @@ Besides medicine I am also very interested in the study of the contemporary scie
 Lastly and not leastly, I have an enduring interest in philosophy, particularly moral philosophy and the philosophy of science. Lately, I have been particularly interested in questions of value; what makes human life valuable and worthwhile, under what conditions are those not met, and what are the implications on the status of moral agents.
 
 I also have a cat named Bat who is very cute.
-
 
 {{< figure src = "/images/sunny_bat.jpg" title = "The Bat Cat."  >}}

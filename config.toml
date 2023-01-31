@@ -90,7 +90,7 @@ copyright = "© {year}"
   weight = 40
 
 [[menu.main]]
-  identifier = "plaintexst"
+  identifier = "plaintext"
   name = "plaintext"
   title = "Plaintext"
   url = "/plaintext"
