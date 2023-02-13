@@ -32,7 +32,7 @@ will be thinking about how we do our research in a more orderly and,
 most importantly, *reproducible* way. We will be covering the following
 topics:
 
-1.  The Command Line and Project Organization
+1.  The Terminal and Project Organization
 
 2.  Document composition and typesetting with LaTeX, `pandoc`, Markdown
     and Make
@@ -48,7 +48,7 @@ topics:
 No previous programming or computing experience is expected, just
 literacy with a keyboard and mouse is required.
 
-## The Command Line and Project Organization
+## The Terminal and Project Organization
 
 In this meeting we will begin by discussing our experiences with
 collecting data and writing up our research, with a particular emphasis
