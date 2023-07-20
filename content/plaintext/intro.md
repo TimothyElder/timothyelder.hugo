@@ -1,6 +1,6 @@
 ---
-title: "Introduction and Overview"
-date: 2023-01-30
+title: "Introduction and Overview to PlainText for Research and Writing"
+date: 2023-03-30
 slug: "intro-and-overview"
 description: "What we will be learning in the PlainText Working Group"
 draft: false

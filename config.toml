@@ -14,11 +14,10 @@ copyright = "© {year}"
 # Add your Disqus shortname here.
 # disqusShortname = ""
 
-# Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = ""
-
 # Optional params
 [params]
+  # Add your Google Analytics identifier: UA-XXXXXXXX-X
+  googleAnalyticsID = "G-2W4NMV43RZ"
 
   # Follow the Hugo date/time format reference here:
   # https://gohugo.io/functions/format/#gos-layout-string

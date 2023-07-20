@@ -128,4 +128,4 @@ Remember when we learned how to use `vim` from the command line and what a hidde
 3. Save the `.bash_profile` file by exiting `vim` with `:wq`.
 4. Restart your terminal.
 
-[^1]: If you are unfamiliar with `vim` and hidden files, check back at the ["The Terminal and Project Organization"](http://localhost:1313/plaintext/session-1/) page.
+[^1]: If you are unfamiliar with `vim` and hidden files, check back at the ["The Terminal and Project Organization"](https://timothyelder.com/plaintext/session-1/) page.
