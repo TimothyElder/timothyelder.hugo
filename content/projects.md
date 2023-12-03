@@ -3,11 +3,13 @@ title: "Projects"
 description: ""
 keywords: []
 draft: false
+layout: narrow-text-wide-image
+type: custom
 ---
 
 *My work is unified by an interest in how knowledge is organized and mustered to inform the practical work of social institutions like medicine and the academy.*
 
-{{< figure src="/images/boards_subspecialty_dendograms.png" >}}
+{{< customImg src="/images/new_dendrogram.png" width="1200px" >}}
 
 #### Collaboration and Decision Making In Medical Specialties
 
@@ -15,7 +17,7 @@ Using interview and ethnographic methods my dissertation research explores the r
 
 #### Status and Subfield: The Distribution of Sociological Specializations across Departments
 
-{{< figure src="/images/stacked-histograms.png" >}}
+{{< customImg src="/images/new_hists.png" width="700px" >}}
 
 The fundamental insights of the Sociology of Science and of Knowledge is that our epistemic endeavors are not solely governed by the ideals of the scientific method. Recognition, personal achievement and career advancement in science is influenced by the individual characteristics of the scholars that produce knowledge. Using the discipline of sociology as a case study, we examine how different subfields are distributed across PhD granting departments in the United States and how the demographic composition of these different subfields influences their relative status.
 
