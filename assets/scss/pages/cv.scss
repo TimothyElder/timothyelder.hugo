@@ -69,6 +69,20 @@ header {
   justify-content: space-between; /* Vertically justify content */
 }
 
+.flex-container {
+  display: flex;
+  justify-content: space-between; /* Adjusts the space between columns */
+  align-items: flex-start; /* Aligns items vertically */
+  flex-wrap: wrap; /* Enables the columns to wrap on smaller screens */
+}
+
+.column {
+  flex: 1; /* Makes columns flexible and of equal width */
+  padding: 10px; /* Adds some spacing inside each column */
+  box-sizing: border-box; /* Ensures padding doesn't affect the overall width */
+  min-width: 200px; /* Minimum width of a column */
+}
+
 
 /* Style for a list with hanging indent */
 ul {
