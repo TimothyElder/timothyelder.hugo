@@ -1,16 +1,24 @@
 @import "../main";
 
+.content {
+  display: flex; /* establishes a flex container */
+  flex-direction: column; /* stacks children vertically */
+  align-items: center; /* centers children horizontally in the flex container */
+  justify-content: center; /* centers children vertically in the flex container */
+}
+
 .text-container {
-  max-width: 70rem; /* or any narrow width */
-  margin: 0 auto; /* centering the text */
+  max-width: 34rem;
+  width: 100%; /* ensure it takes up the full width of the flex container */
+  margin: 0 auto; /* center in the viewport */
   padding: 0 15px; /* optional padding */
 }
 
 .content img {
-  width: 100%; /* makes the image responsive */
-  height: auto; /* maintain aspect ratio */
-  display: block; /* removes default inline spacing */
-  margin: 0 auto; /* centering the image */
+  width: 100%;
+  // max-width: 100vw; /* making images full viewport width */
+  margin-left: 50%; /* centering the image */
+  transform: translateX(-50%); /* aligning the image correctly */
 }
 
 
