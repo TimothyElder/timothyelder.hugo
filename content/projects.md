@@ -1,12 +1,9 @@
 ---
-title: "Projects"
-description: ""
-keywords: []
-toc: false
+title: "projects"
 draft: false
-layout: narrow-text-wide-image
-type: custom
 math: true
+type: custom
+layout: projects
 ---
 
 My research investigates how networks of collaboration evolve and influence the work of professionals and experts, particularly in the scientific and medical fields. I use a variety of methods including open-ended unstructured interviews, ethnography, network and text analysis.
@@ -33,7 +30,7 @@ In collaboration with [Austin Kozlowski](https://austinkozlowski.com/), now avai
 
 A variety of recent scandals and revelations have demonstrated the need for a more open scientific process where researchers and writers are able to document the methods they adopted to get from their empirical observations of the world to their insights and findings. This need has been felt most acutely in the social sciences where a number of notable and influential findings have failed to replicate, and a number of scandals have undermined trust. A suite of powerful open source and plain text software has developed that allows researchers and writers to adopt transparent research and writing methods, but the steep up front cost of adopting these tools and the ease of use of What You See Is What You Get programs like Microsoft Word and Google Docs prevents many researchers and students from adopting them.
 
-In *Introduction to Plain Text Software for Research and Writing* provides a practical introduction to plain text software that assumes nearly no foreknowledge of how computers work, and outlines the appropriate cognitive attitude for working with plain text software, an attitude that helps to promote efficiency and clarity with important scientific implications for how we conduct research. I outline the use and utility of dynamic documents with $\LaTeX$, RMarkdown, creating cogent and potent tables and figures, and the fundamentals of interacting with plaintext software using the terminal.
+*Introduction to Plain Text Software for Research and Writing* provides a practical introduction to plain text software that assumes nearly no foreknowledge of how computers work, and outlines the appropriate cognitive attitude for working with plain text software, an attitude that helps to promote efficiency and clarity with important scientific implications for how we conduct research. I outline the use and utility of dynamic documents with $\LaTeX$, RMarkdown, creating cogent and potent tables and figures, and the fundamentals of interacting with plaintext software using the terminal.
 
 Sample chapters are available in the [`plaintext`](/plaintext) section of this site and a full draft is available upon [request](mailto:timothyelder@uchicago.edu).
 

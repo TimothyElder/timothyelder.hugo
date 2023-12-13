@@ -14,7 +14,7 @@
             {{ if .Date }}<time datetime="{{ .Date }}" class="post__date">{{ .Date.Format $dateFormat }}</time> {{ end }}
           </header>
           <article class="post__content">
-              {{ partial "anchored-headings.html" .Content }}
+              {{ .Content }}
               {{ if or .Params.math .Site.Params.math }}
                   {{ partial "math.html" . }}
               {{ end }}
