@@ -32,6 +32,6 @@ A variety of recent scandals and revelations have demonstrated the need for a mo
 
 *Introduction to Plain Text Software for Research and Writing* provides a practical introduction to plain text software that assumes nearly no foreknowledge of how computers work, and outlines the appropriate cognitive attitude for working with plain text software, an attitude that helps to promote efficiency and clarity with important scientific implications for how we conduct research. I outline the use and utility of dynamic documents with $\LaTeX$, RMarkdown, creating cogent and potent tables and figures, and the fundamentals of interacting with plaintext software using the terminal.
 
-Sample chapters are available in the [`plaintext`](/plaintext) section of this site and a full draft is available upon [request](mailto:timothyelder@uchicago.edu).
+Sample chapters are available in the [`plaintext`](/plaintext) section of this site and a full draft is available at [introtoplaintext.com](https://introtoplaintext.com).
 
 <br>{{< customImg src="/images/book-cover.png" width="500px" >}}

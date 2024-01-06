@@ -68,6 +68,11 @@ $tocBreakpoint: 1024px;
   }
 }
 
+figcaption {
+  text-align: center; // Centers the text
+  font-style: italic; // Italicizes the text
+}
+
 #post__title {
   margin-top: 0;
   margin-bottom: 0.5rem;
