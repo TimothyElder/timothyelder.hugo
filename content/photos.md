@@ -23,3 +23,7 @@ I developed an amateur interest in photography a while ago and the enthusiasm wa
 {{< customImg src="/photography/DSC_0113.jpg" width="1000px" caption="Van Buren Street Station" >}}<br>
 
 {{< customImg src="/photography/DSC_0201.jpg" width="1000px" caption="Somewhere on the Brown Line" >}}<br>
+
+{{< customImg src="/photography/DSC_0317.jpg" width="1000px" caption="Lake Michigan" >}}<br>
+
+{{< customImg src="/photography/DSC_0616.jpg" width="1000px" >}}<br>
