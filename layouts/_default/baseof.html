@@ -63,6 +63,9 @@
   {{ $script := resources.Get "js/index.js" | minify | fingerprint }}
   <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity | safeHTMLAttr }}" crossorigin="anonymous"></script>
   {{ block "scripts" . }} {{ end }}
+
+<script type="text/javascript" src="/js/carousel.js"></script>
+<link rel="stylesheet" href="/css/carousel.css">
 </body>
 
 </html>

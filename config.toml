@@ -27,7 +27,8 @@ copyright = "© {year}"
   #twitter = "https://twitter.com/<your handle>"
   github = "https://github.com/timothyelder"
   email = "mailto:timothyelder@uchicago.edu"
-  uchicago = "https://sociology.uchicago.edu/directory/timothy-elder"
+  #uchicago = "https://sociology.uchicago.edu/directory/timothy-elder"
+  dartmouth = "https://sites.dartmouth.edu/barnato-lab/people/"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
@@ -38,7 +39,7 @@ copyright = "© {year}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported:
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Email", "GitHub", "uchicago"]
+  iconOrder = ["Email", "GitHub", "dartmouth"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
@@ -88,16 +89,23 @@ copyright = "© {year}"
   url = "/projects"
   weight = 40
 
-#[[menu.main]]
-#  identifier = "photos"
-#  name = "photos"
-#  title = "photos"
-#  url = "/photos"
-#  weight = 60
-
 [[menu.main]]
   identifier = "plaintext"
   name = "plaintext"
   title = "Plaintext"
   url = "/plaintext"
   weight = 50
+
+[[menu.main]]
+  identifier = "photos"
+  name = "photos"
+  title = "photos"
+  url = "/photos"
+  weight = 60
+
+[[menu.main]]
+  identifier = "bikes"
+  name = "bikes"
+  title = "bikes"
+  url = "/bikes"
+  weight = 70
