@@ -6,7 +6,7 @@ type: custom
 layout: projects
 ---
 
-In finishing up my dissertation and applying to postdocs I was struck by a great deal of fear and dread about how my life was going to change, and so I did whatever I could to not work and not think about the job market. So I started working on vintage road bikes, particularly French ones. It was something of a life saver for me, as working on a bike is a pristine domain of success and failure: if something breaks, its broken, and it needs fixing. If you mess up, the bike lets you know, and the bike never lies.
+With the stress of finishing up my dissertation and applying to postdocs I did whatever I could to find some helpful distractions. I started working on vintage road bikes, particularly French ones. Working on bikes is a great distraction because, when compared to academia, it is a pristine domain of success and failure: if something breaks, it's broken. If It's fixed, it works. If you mess up, the bike lets you know, and the bike never lies.
 
 <br>{{< carousel items="1" height="500" unit="px" duration="7000" >}}
 
@@ -16,8 +16,16 @@ I first started fixing up bikes when a bike mechanic friend found an old Motobec
 
 The hardest part was removing and installing a new bottom bracket for this bike. Motobecane, contrary to many other French bike manufacturers, used a unique bottom bracket threading which provokes a great deal of confusion, even among seasoned bicycle mechanics. It took trial and error to find the right size bottom bracket, with the right threading but I did. And it works great.
 
-{{< customImg src="/bikes/ECMM001-PIC1.JPG" width="1000px" caption="Motobecane Mirage" >}}<br>
+{{< customImg src="/bikes/ECMM001-PIC1.JPG" width="800px" caption="Motobecane Mirage" >}}<br>
 
-In the course of fixing up this bike, I actually found the identical make and model (probably year too) and purchased it. 
+In the course of fixing up this bike, I actually found the identical make and model (probably year too) and purchased it. I restored it with all the original parts, even the old-style cottered crankset and french bottom bracket. And it is a perfectly unfashionable cream color.
 
-{{< customImg src="/bikes/ECMM002-PIC1.JPG" width="1000px" caption="Motobecane Mirage II" >}}<br>
+{{< customImg src="/bikes/ECMM002-PIC1.JPG" width="800px" caption="Motobecane Mirage II" >}}<br>
+
+# Schwinn Traveler
+
+After restoring the French bikes, I had built the reputation in my circle to the point that I started being given bikes that people had that they didn't want to have to spend the money or time fixing themselves. A friend gave me their old 1977 Schwinn Traveler. When I removed the bottom bracket, there were loose bearings but a new set of bearings in a retainer cage and it works great. It's very blue but it looks just like it did in '77, minus the gum wall tires and with mismatched pedals.
+
+{{< customImg src="/bikes/ECST004-PIC1.JPG" width="800px" caption="Schwinn Traveler" >}}<br>
+
+{{< customImg src="/bikes/1977_schwinn_approved_traveler.webp" width="800px" caption="Original Ad" >}}<br>

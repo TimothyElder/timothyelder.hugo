@@ -7,5 +7,7 @@ images:
       content_html: "3"
     - image: /bikes/ECMM002-PIC2.JPG
       content_html: "4"
-    - image: /bikes/ECMM001-PIC5.JPG
-      content_html: "4"
+    - image: /bikes/ECST004-PIC1.JPG
+      content_html: "5"
+    - image: /bikes/ECST004-PIC2.JPG
+      content_html: "6"
