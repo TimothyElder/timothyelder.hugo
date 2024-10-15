@@ -8,7 +8,7 @@ layout: projects
 
 My research investigates how networks of collaboration evolve and influence the work of professionals and experts, particularly in the scientific and medical fields. I use a variety of methods including open-ended unstructured interviews, ethnography, network and text analysis.
 
-{{< customImg src="/images/net_map.svg" width="1000px" >}}
+{{< customImg src="/images/new_dendrogram.png" width="1200px" >}}
 
 ## Collaboration and Decision-Making In Medical Specialties
 
@@ -16,15 +16,15 @@ Growing specialization within professions leads to social differentiation and th
 
 Despite the growing number of different specialties in medicine with different ideas of what constitutes success and a good case, care for the terminally ill depends upon a tight coupling between clinicians from disparate areas. Focusing on the case of Hospice and Palliative Medicine, I find new specialties springing up that work to transform the work styles of other specialties to allow for the production of a working consensus and success in the face of impending death.
 
-{{< customImg src="/images/new_dendrogram.png" width="1200px" >}}
-
 ## Status and Subfield: The Distribution of Sociological Specializations across Departments
 
 The fundamental insights of the Sociology of Science and of Knowledge is that our epistemic endeavors are not solely governed by the ideals of the scientific method. Recognition, personal achievement and career advancement in science is influenced by the individual characteristics of the scholars that produce knowledge. Using the discipline of sociology as a case study, we examine how different subfields are distributed across PhD granting departments in the United States and how the demographic composition of these different subfields influences their relative status.
 
 In collaboration with [Austin Kozlowski](https://austinkozlowski.com/), now available as a preprint on [SocArXiv](https://osf.io/preprints/socarxiv/h85tp/).
 
-{{< customImg src="/images/new_hists.png" width="700px" >}}
+{{< customImg src="/images/net_map.svg" width="700px" >}}
+
+<!-- {{< customImg src="/images/new_hists.png" width="700px" >}} -->
 
 ## *Introduction to Plain Text Software for Research and Writing*
 
