@@ -255,3 +255,18 @@ table {
     border: 1px double $greyTableBorder;
   }
 }
+
+.image-row {
+  overflow: hidden; /* Ensures proper wrapping */
+}
+
+.image-row img {
+  float: left; /* Floats the image to the left of the text */
+  margin: 10px 20px 10px 0; /* Adds space around the image */
+  max-width: 25%; /* Ensures the image doesn't take too much space */
+  height: auto; /* Maintains aspect ratio */
+}
+
+.image-row p {
+  text-align: justify; /* Optional: Justifies the text */
+}
