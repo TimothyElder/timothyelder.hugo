@@ -8,8 +8,6 @@ layout: projects
 
 I developed an amateur interest in photography in high school and the enthusiasm was re-enflamed when I got a [Nikon FM10](https://en.wikipedia.org/wiki/Nikon_FM10) 35mm film camera. Here are some examples of my own small contributions to the vast collection of images out there, shot with a number of different [cameras]({{< relref "cameras.md" >}}). 
 
-<!-- You can find more of my photo projects [here]({{< relref "photo-projects" >}}) -->
-
 {{< customImg src="/photography/000456930004.jpg" width="800px" caption="Saieh Hall" >}}<br>
 
 {{< customImg src="/photography/000335410012.jpg" width="1000px" caption="Promontory Point" >}}<br>

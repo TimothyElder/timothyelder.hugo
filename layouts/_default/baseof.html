@@ -44,6 +44,9 @@
   {{ block "links" . }} {{ end }}
   {{ partial "seo-schema.html" .}}
 
+  {{ $simpleciteStyle := resources.Get "scss/hugo-simplecite.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" type="text/css" href="{{ $simpleciteStyle.Permalink }}">
+
   {{/*  This is broken and I do not know that it is necessary, because analytics is accesible in lines f-7 of basof.html */}}
   {{/*  {{- if not .Site.IsServer -}}
       {{ template "_internal/google_analytics.html" . }}
